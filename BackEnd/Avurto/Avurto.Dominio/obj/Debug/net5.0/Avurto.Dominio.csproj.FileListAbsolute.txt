@@ -1,0 +1,6 @@
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Dominio\bin\Debug\net5.0\Avurto.Comum.dll
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Dominio\obj\Debug\net5.0\Avurto.Dominio.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Dominio\obj\Debug\net5.0\Avurto.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Dominio\obj\Debug\net5.0\Avurto.Dominio.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Dominio\obj\Debug\net5.0\Avurto.Dominio.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Dominio\obj\Debug\net5.0\Avurto.Dominio.csproj.CoreCompileInputs.cache

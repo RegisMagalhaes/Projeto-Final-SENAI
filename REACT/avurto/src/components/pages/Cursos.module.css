@@ -1,0 +1,23 @@
+@import
+url( "http://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap");
+
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+    margin: 2rem;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,  minmax(12rem,16rem));
+    gap: 2rem;
+    justify-content: center;
+}

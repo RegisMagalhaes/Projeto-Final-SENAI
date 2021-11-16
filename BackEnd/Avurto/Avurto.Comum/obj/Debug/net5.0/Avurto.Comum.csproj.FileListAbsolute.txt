@@ -1,0 +1,11 @@
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Comum\bin\Debug\net5.0\Avurto.Comum.deps.json
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Comum\bin\Debug\net5.0\Avurto.Comum.dll
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Comum\bin\Debug\net5.0\ref\Avurto.Comum.dll
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Comum\bin\Debug\net5.0\Avurto.Comum.pdb
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Comum\obj\Debug\net5.0\Avurto.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Comum\obj\Debug\net5.0\Avurto.Comum.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Comum\obj\Debug\net5.0\Avurto.Comum.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Comum\obj\Debug\net5.0\Avurto.Comum.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Comum\obj\Debug\net5.0\Avurto.Comum.dll
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Comum\obj\Debug\net5.0\ref\Avurto.Comum.dll
+C:\Users\Pichau\OneDrive\Desktop\FYI-Grupo17\BackEnd\Avurto\Avurto.Comum\obj\Debug\net5.0\Avurto.Comum.pdb

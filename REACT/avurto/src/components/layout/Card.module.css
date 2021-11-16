@@ -1,0 +1,41 @@
+.card{
+    overflow: hidden;
+    box-shadow: 0 2px 20px gray;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: transform 200ms ease-in; 
+}
+
+&__image{
+    height: 12rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+&__description{
+    padding:0 1rem;
+}
+
+&__btn{
+    padding: 1rem;
+    font-weight: inherit;
+    font-weight:bold ;
+    font-size: 1rem;
+    margin: 1rem;
+    border: 2px solid;
+    background-color: transparent;
+    color: #000;
+    border-radius: 8px;
+    transition:  200ms ease-in, color 200ms ease-in;
+}
+
+&:hover{
+    transform:scale(1.02)
+}
+
+&:hover &__btn{
+    backgrround:
+}
